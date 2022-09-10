@@ -22,3 +22,15 @@ A Static Method For Returning That Static Instance.</p>
  Of Calling A Constructor And We Refer To Newly Created Object Using A Common Interface.</p>
  
  <hr/>
+ 
+ <h2>Strategy Pattern</h2>
+ <p>In This Pattern, We Create Objects Which Represent Various Strategies And A Context<br/>
+ Object Whose Behavior Varies As Per Its Strategy Object. The Strategy Object Changes The<br/>
+ Executing Algorithm Of The Context Object.</p>
+ 
+ <hr/>
+ 
+ 
+ 
+ 
+ 
