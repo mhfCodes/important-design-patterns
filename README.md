@@ -7,6 +7,9 @@
 	<li>Factory</li>
 	<li>Strategy</li>
 	<li>Observer</li>
+	<li>Builder</li>
+	<li>Adapter</li>
+	<li>State</li>
 </ul>
 
 <hr/>
@@ -52,6 +55,10 @@ A Static Method For Returning That Static Instance.</p>
  
  <hr/>
  
+ <h2>State Pattern</h2>
+ <p>In This Pattern A Class Behavior Changes Based On Its State. We Create Objects Which Represent<br/>
+ Various States And A Context Object Whose Behavior Varies As Its State Object Changes.</p>
  
+<hr/> 
  
  
