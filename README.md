@@ -5,6 +5,8 @@
 <ul>
 	<li>Singleton</li>
 	<li>Factory</li>
+	<li>Strategy</li>
+	<li>Observer</li>
 </ul>
 
 <hr/>
@@ -29,6 +31,18 @@ A Static Method For Returning That Static Instance.</p>
  Executing Algorithm Of The Context Object.</p>
  
  <hr/>
+ 
+ <h2>Observer Pattern</h2>
+ <p>This Pattern Consists Of Two Actors, <i>The Observer</i> Who Is Interested In The Updates</br>
+ And <i>The Subject</i> Who Generated The Updates So If Subject Is Modified All Its Dependent<br/>
+ Objects (Observers) Are Notified.</p>
+ 
+ <hr/>
+ 
+ 
+ 
+ 
+ 
  
  
  
