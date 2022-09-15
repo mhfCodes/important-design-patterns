@@ -39,7 +39,9 @@ A Static Method For Returning That Static Instance.</p>
  
  <hr/>
  
- 
+ <h2>Builder Pattern</h2>
+ <p>This Pattern Is Used To Build Objects. The Exercise Of Creating Complex Types Can Be Simplified<br/>
+ By Using The Builder Pattern. A Composite Or An Aggregate Object Is What A Builder Generally Builds.</p>
  
  
  
