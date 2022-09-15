@@ -43,9 +43,14 @@ A Static Method For Returning That Static Instance.</p>
  <p>This Pattern Is Used To Build Objects. The Exercise Of Creating Complex Types Can Be Simplified<br/>
  By Using The Builder Pattern. A Composite Or An Aggregate Object Is What A Builder Generally Builds.</p>
  
+ <hr/>
  
+ <h2>Adapter Pattern</h2>
+ <p>This Pattern Allows Incompatible Classes To Work Together By Converting The Interface<br/>
+ Of One Class Into Another. This Pattern Involves A Single Class Which Is Responsible To Join<br/>
+ Functionalities Of Independent Or Incompatible Interfaces.</p>
  
- 
+ <hr/>
  
  
  
